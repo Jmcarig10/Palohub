@@ -1,6 +1,6 @@
 'use client';
 
-import { Clock, MapPin, Users, CheckCircle } from 'lucide-react';
+import { Clock, Users, CheckCircle } from 'lucide-react';
 import Link from 'next/link';
 
 export default function CourtAvailability() {
